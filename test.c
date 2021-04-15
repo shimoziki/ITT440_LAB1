@@ -5,7 +5,7 @@
 int main()
 {
 
-printf("Hi");
+printf("Hi, this is my first code bro!");
 return 0;
 
 }
